@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\NukeScript\shell\open\command]
+@="\"C:\\Program Files\\Nuke12.0v4\\Nuke12.0.exe\" \"%1\""
+
+# Modify the path according to different nuke versions!
